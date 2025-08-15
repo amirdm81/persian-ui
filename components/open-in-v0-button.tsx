@@ -20,7 +20,8 @@ export function OpenInV0Button({
         target="_blank"
         rel="noreferrer"
       >
-        Open in{" "}
+        باز کردن در {" "}
+        
         <svg
           viewBox="0 0 40 20"
           fill="none"
