@@ -21,6 +21,7 @@ export function OpenInV0Button({
         rel="noreferrer"
       >
         باز کردن در {" "}
+        
         <svg
           viewBox="0 0 40 20"
           fill="none"
